@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //AppTheme styles colors
+    <color name="colorPrimary">#f5f5f5</color>
+    <color name="colorPrimaryDark">#e0e0e0</color>
+    <color name="colorAccent">#e6f3ff</color>
+    <color name="colorAccent1">#001a33</color>
+    <color name="textcolor">#000000</color>
+    <color name="colorTitleLine">#d1d1d1</color>
+    <color name="colorConverterUnit">#e0e0e0</color>
+    <color name="backgroundColor">#001a33</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>
+<!--#9C001223-->
